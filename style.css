@@ -1,0 +1,22 @@
+td{
+    width: 175px;
+    height: 55px;
+    border: 1px black solid;
+}
+
+table{
+    margin: 75px auto;
+}
+
+button{
+    margin: 0 0 0 1000px;
+    text-decoration: none;
+    background-color: rgb(0, 174, 255);
+    border: rgb(0, 174, 255);
+    border-radius: 15px;
+    width: 130px;
+    height: 55px;
+    font-style: Arial;
+    font-size: 18px;
+    transition: all 1s;
+}
